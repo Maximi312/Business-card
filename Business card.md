@@ -1,9 +1,9 @@
-ФИО: **Путин Владимир Владимирович**
+ФИО: **Иващенко Максим Владимирович**
 
-Дата рождения: **07.10.1952**
+Дата рождения: **01.08.2004**
 
 Пол: **Мужской**
 
-Занимаемая должность: **Президент РФ**
+Занимаемая должность: **Генеральный директор**
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Vladimir_Putin_September_5%2C_2022_%28cropped%29.jpg/260px-Vladimir_Putin_September_5%2C_2022_%28cropped%29.jpg)
+![image](https://bogdo.studio/assets/images/resources/38/medium/691.jpg)
