@@ -1,6 +1,8 @@
-|Заголовок 1|Заголовок 2|Заголовок 3|
-|-----------|-----------|-----------|
-|Ячейка 1|Ячейка 2|Ячейка 3|
-|Ячейка 4|Ячейка 5|Ячейка 6|
+ФИО: **Путин Владимир Владимирович**
+Дата рождения: **07.10.1952**
 
-![image](https://www.wellcomes.ru/cgi-bin/mb4x?usr_data=gd-image(wcs_news,16139,,2,asis,00000000,)&hide_Cookie=yes)
+Пол: **Мужской**
+
+Занимаемая должность: **Президент РФ**
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Vladimir_Putin_September_5%2C_2022_%28cropped%29.jpg/260px-Vladimir_Putin_September_5%2C_2022_%28cropped%29.jpg)
